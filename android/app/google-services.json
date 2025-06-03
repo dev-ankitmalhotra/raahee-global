@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "787053033101",
+    "project_id": "raahee-global-library-84037",
+    "storage_bucket": "raahee-global-library-84037.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787053033101:android:92c507d875a29de25714c4",
+        "android_client_info": {
+          "package_name": "com.example.raahee_global_book_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787053033101-v75agqrj2prekj9eghjuqj6pks67em49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raahee_global_book_library",
+            "certificate_hash": "5cdcbf0de0239aaf3c5785107b86ec8ef9ce2fb4"
+          }
+        },
+        {
+          "client_id": "787053033101-l1b2sv6qrg1arpdise1a7585p38b67v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtITPUtB7nAsRZOXiMw-ioymrulFMkoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787053033101-l1b2sv6qrg1arpdise1a7585p38b67v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787053033101-ic10iu6h953oepjcfi720vvppu6so8i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raahee.globalLibrary"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787053033101:android:7e8e33dc97722f765714c4",
+        "android_client_info": {
+          "package_name": "com.raahee.globalLibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787053033101-0grf24i5bbnh53496jek0kcaqt5hv8o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raahee.globalLibrary",
+            "certificate_hash": "5cdcbf0de0239aaf3c5785107b86ec8ef9ce2fb4"
+          }
+        },
+        {
+          "client_id": "787053033101-l1b2sv6qrg1arpdise1a7585p38b67v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtITPUtB7nAsRZOXiMw-ioymrulFMkoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787053033101-l1b2sv6qrg1arpdise1a7585p38b67v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787053033101-ic10iu6h953oepjcfi720vvppu6so8i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raahee.globalLibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
